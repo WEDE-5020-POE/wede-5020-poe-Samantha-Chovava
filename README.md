@@ -16,11 +16,11 @@ Its vision is to grow Amo’s Makeover into a well-recognised beauty brand for w
 
 The website aims to promote Amo’s Makeover Salon by showcasing hair styling and makeup services, displaying a portfolio of client transformations, and providing easy communication channels for bookings and enquiries. Customers will be able to request appointments, ask for custom makeup looks, and view service packages.
 
-Success will be measured according to following KPIs:
-•	Number of website visitors, which will tell how many people are finding and viewing the website. A high number means marketing is going well, people are interested.
-•	Booking requests submitted, which shows how many visitors are acting into the booking services. A high number of bookings means the website is convincing and effective.
-•	Social media engagement (likes, shares, comments), which will measure how people interact with the content online. High engagement means the business is reaching more potential clients.
-•	Repeat client bookings, this shows customer satisfaction and loyalty. If clients come back, it means they were happy with the services.
+Success will be measured according to following KPIs:<br>
+Number of website visitors, which will tell how many people are finding and viewing the website. A high number means marketing is going well, people are interested.
+Booking requests submitted, which shows how many visitors are acting into the booking services. A high number of bookings means the website is convincing and effective.
+Social media engagement (likes, shares, comments), which will measure how people interact with the content online. High engagement means the business is reaching more potential clients.
+Repeat client bookings, this shows customer satisfaction and loyalty. If clients come back, it means they were happy with the services.
 
 ## Timeline and Milestones
 
