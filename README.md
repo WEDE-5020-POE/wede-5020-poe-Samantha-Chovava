@@ -35,7 +35,7 @@ Success will be measured according to following KPIs:
 
 ## Sitemap
 
-![Website Sitemap](img/Sitemap.png)<br>
+![Website Sitemap](Sitemap.png)<br>
 
 ## References
 
