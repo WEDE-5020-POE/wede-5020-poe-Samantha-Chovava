@@ -1,0 +1,125 @@
+/*Import Google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display:wght@600&display=swap');
+/*General page styling*/
+body{
+    background-color: #f5f5dc;
+    font-family: 'Lora', serif;
+    margin: 0;
+    padding: 0;
+    color: #333333;
+}
+/*Header styling*/
+header{
+    background-color: #ffc5c5;
+    text-align: center;
+    padding: 20px;
+}
+/*Main heading*/
+h1{
+    font-family: 'Playfair Display', serif;
+    color: #d4af37;
+    font-size: 3rem;
+}
+/*Section headings*/
+h2,h3{
+    font-family: 'Playfair Display', serif;
+    color: #d4af37;
+}
+/*Navigation bar*/
+nav{
+    background-color: #d4af37;
+    padding: 15px;
+    text-align: center;
+}
+/*Navigation links*/
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+/*Hover effect for navigation*/
+nav a:hover{
+    color: #ffc5c5;
+}
+/*Main content sections*/
+section{
+    padding: 20px;
+    margin: 20px;
+}
+/*Images*/
+img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+/*Buttons and links*/
+a{
+    display: inline-block;
+    background-color: #ffc5c5;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+/*Hover effect for buttons*/
+a:hover{
+    background-color: #d4af37;
+    color: white;
+}
+/*Form styling*/
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+/*Input fields*/
+input{
+    width: 80%;
+    padding: 10px;
+    margin-top: 5px;
+}
+/*Button styling*/
+button{
+    background-color: #ffc5c5;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+/*Button hover effect*/
+button:hover{
+    background-color: #d4af37;
+    color: white;
+}
+/*Footer styling*/
+footer{
+    background-color: #ffc5c5;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+/*Responsive design for smaller screens*/
+@media  screen and (max-width: 768px) {
+    
+    nav a{
+        display: block;
+        margin: 10px 0;
+    }
+
+    h1{
+        font-size: 2rem;
+    }
+
+    section{
+        margin: 10px;
+        padding: 10px;
+    }
+
+    input{
+        width: 100%;
+    }
+
+}
