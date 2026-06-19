@@ -61,8 +61,9 @@ I kept fixing errors and making sure all the pages looked the same. I finished a
 
 ## References
 
-Cloudflare. 2026. Web Hosting Pricing.[Online] Available at: https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/. [Accessed: 10 April 2026]
+Cloudflare. 2026. Web Hosting Pricing.[Online]. Available at: https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/. [Accessed: 10 April 2026]
 Figma. 2026. Figma [Collaborative Interface Design Tool]. Available at: https://www.figma.com [Accessed: 11 April 2026].
+GitPages.2026.Git Pages Documentation.[Online]. Available at: https://pages.github.com/. [Accessed: 19 June 1026]
 GoDaddy. 2026. Domain and hosting. [Online]. Available at: https://www.godaddy.com/en-ph/hosting/web-hosting. [Accessed: 10 April 2026].
 Venu, A. 2026. Hair stylist & makeup artist. [Telephonic conversation]. 7 April 2026.
 W3schools. 2026. HTML. [Online] Available at: https://www.w3schools.com/html/ [Accessed: 17 April 2026]
