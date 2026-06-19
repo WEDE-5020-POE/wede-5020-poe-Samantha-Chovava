@@ -34,8 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     if(contactForm){
 
-        contactForm.addEventListener("submit",
-        function(event){
+        contactForm.addEventListener("submit", function(event){
 
             let name =
                 document.getElementById("name").value;
@@ -82,6 +81,25 @@ document.addEventListener("DOMContentLoaded", function () {
             alert(
             "Form submitted successfully!"
             );
+        });
+    }
+            //Lightbox gallery
+            const galleryImages=document.querySelectorAll("main img");
+            const lightbox=document.getElementById("lightbox");
+            const lightboxImg=document.getElementById("lightboxImg");
+            const closeBtn=document.getElementById("closeLightbox");
+            if(galleryImages.length>0){
+                galleryImages.forEach(function(img){
+                    img.addEventListener("click", function(){
+                        lightbox.style.display="block";
+                        lightboxImg.src=this.src;
+                    });
+                });
+            }
+            if(closeBtn){
+            closeBtn.addEventListener("click",
+                function(){
+                    lightbox.style.display="none";
         });
     }
 });

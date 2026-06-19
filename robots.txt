@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+sitemap://www.amosmakeover.co.za/sitemap.xml
